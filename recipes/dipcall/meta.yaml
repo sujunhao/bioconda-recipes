@@ -35,7 +35,7 @@ about:
   dev_url: https://github.com/lh3/dipcall
   doc_url: https://github.com/lh3/dipcall
   # FIXME upstream:
-  # license: MIT
+  license: MIT (assumed)
   # license_file: LICENSE.txt
   summary: Dipcall is a reference-based variant calling pipeline for a pair of phased haplotype assemblies.
   description: >
