@@ -9,7 +9,7 @@ source:
   sha256: 106e15c10e7e050c1fd1aa6119c2f7551d39edc717e5e5f748392bce77c7f46b
 
 build:
-  number: 0
+  number: 1
   noarch: python 
   entry_points:
     - renet2 = renet2.renet2:main
